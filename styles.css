@@ -3,18 +3,33 @@
     justify-content: right;
 }
 #image1{
-    height: 450px;
+    height: 300px;
     width: 450px;
 }
 #image2{
-    height: 450px;
+    height: 300px;
     width: 450px;
 }
 #image3{
-    height: 450px;
+    height: 300px;
     width: 450px;
 }
 #workout{
-    height: 340px;
-    width: 1479px;
+    width: 286px;
+}
+#cardbody1{
+    height: 300px;
+    width: 300px;
+}
+#cardbody2{
+    height: 300px;
+    width: 300px;
+}
+#cardbody3{
+    height: 300px;
+    width: 300px;
+}
+#cardbody4{
+    height: 300px;
+    width: 400px;
 }
